@@ -19,14 +19,14 @@ export const botConfig = {
     // 1 = Streaming
     // 2 = Listening
     // 3 = Watching
-    // 4 = Custom
+    // 4 = bio
     // 5 = Competing
     activities: [
       {
         // Text users will see (example: "Playing /help | Titan Bot").
         name: "I am made by CoolGold7502",
         // Activity type number (0 = Playing).
-        type: 0,
+        type: 4,
       },
     ],
   },
